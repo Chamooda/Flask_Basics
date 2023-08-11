@@ -1,0 +1,39 @@
+.page
+{
+  background-color: rgb(249, 249, 249);
+}
+
+.container
+{
+  margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.block
+{
+   background-color: rgb(110, 110, 228);
+   height: 20px;
+    width: 100%;
+}
+
+.top
+{
+  background-color: rgb(110, 110, 228);
+  font-size: 100px;
+  text-align: center; 
+  margin-bottom: 0px;
+}
+
+
+hr.rounded {
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  scale: 1;
+}
+
+.opaque
+{
+  opacity: 85%;
+  scale: 0.75;
+}
